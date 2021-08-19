@@ -1,0 +1,121 @@
+.page{
+    width: 780px;
+    margin:auto;
+   
+    font-family: 'Source sans pro', Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 350px;
+}
+.info{
+    background-color: burlywood;
+    float: left;
+    font-style: italic;
+}
+.photo{
+    float: right;
+}
+.forme{
+    width: 780px;
+    margin: auto;
+    
+    font-family:'Source sans pro', Arial, Helvetica, sans-serif  ;
+    font-size: 16px;
+}
+.titre{
+    width: 780px;
+    margin: auto;
+    
+    font-family:'Source sans pro', Arial, Helvetica, sans-serif  ;
+    font-size: 16px;
+    border-width: 2px;
+  border-style: solid;
+ 
+ border-radius:20pt 20pt;
+        border:1px solid black;
+        margin-bottom:30px;
+    text-align: center;
+    background-color: burlywood;
+    font-style: italic;
+     }
+.formations{
+    
+  border-width: 2px;
+  border-style: solid;
+ 
+ border-radius:20pt 20pt;
+        border:1px solid black;
+        margin-bottom:30px;
+        background-color: burlywood;
+}
+.color1{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color:blue;
+    
+  
+}
+.experience{
+    
+    text-decoration-color: grey;
+    border-width: 2px;
+  
+  
+        border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+        background-color: burlywood;
+}
+.color{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color: blue;
+    text-align: center;
+
+}
+
+.comp{
+    
+    border-width: 2px;
+ 
+  
+  border-radius:20pt 20pt;
+        border:1px solid blue;
+        margin-bottom:30px;
+        background-color: burlywood;
+}
+.color2{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color:blue;
+    text-align: center;
+
+}
+.divers{
+    
+    border-width: 2px;
+  
+  
+  border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+        background-color: burlywood;
+
+}
+.color3{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color:blueviolet;
+    text-align: center;
+}
+.f{
+    margin-bottom: 2px;
+    text-align: center;
+    color :black;
+}
